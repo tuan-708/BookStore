@@ -1,0 +1,821 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\BookStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookStore.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\admin\\css\\admin-roles.css",
+      "PackagePath": "staticwebassets\\admin\\css\\admin-roles.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\admin\\css\\admin.css",
+      "PackagePath": "staticwebassets\\admin\\css\\admin.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\admin\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admin\\css\\styles.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\admin\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\admin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\admin\\js\\scripts.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\image\\Facebook.png",
+      "PackagePath": "staticwebassets\\image\\Facebook.png"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\image\\Github.png",
+      "PackagePath": "staticwebassets\\image\\Github.png"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\image\\Google.png",
+      "PackagePath": "staticwebassets\\image\\Google.png"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\image\\backgound-login.jpg",
+      "PackagePath": "staticwebassets\\image\\backgound-login.jpg"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\image\\iconweb.png",
+      "PackagePath": "staticwebassets\\image\\iconweb.png"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\image\\join-background.jpg",
+      "PackagePath": "staticwebassets\\image\\join-background.jpg"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\image\\null.png",
+      "PackagePath": "staticwebassets\\image\\null.png"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\image\\panner1.png",
+      "PackagePath": "staticwebassets\\image\\panner1.png"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\image\\panner2.png",
+      "PackagePath": "staticwebassets\\image\\panner2.png"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\image\\panner3.png",
+      "PackagePath": "staticwebassets\\image\\panner3.png"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\image\\panner4.png",
+      "PackagePath": "staticwebassets\\image\\panner4.png"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\js\\OrdersRealTime.js",
+      "PackagePath": "staticwebassets\\js\\OrdersRealTime.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\js\\signalr.js",
+      "PackagePath": "staticwebassets\\js\\signalr.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\js\\signalr.min.js",
+      "PackagePath": "staticwebassets\\js\\signalr.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\langs\\README.md",
+      "PackagePath": "staticwebassets\\tinymce\\langs\\README.md"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\license.txt",
+      "PackagePath": "staticwebassets\\tinymce\\license.txt"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\accordion\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\accordion\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\template\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\template\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\uploads\\03834f7e-17cd-4d7b-8e94-9844976a623a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\03834f7e-17cd-4d7b-8e94-9844976a623a.jpg"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\uploads\\21e70a1e-15eb-4a95-8ec0-b3081205bb83.jpg",
+      "PackagePath": "staticwebassets\\uploads\\21e70a1e-15eb-4a95-8ec0-b3081205bb83.jpg"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\uploads\\2b6ded72-c58e-41a3-940a-d2f4f4219f22.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2b6ded72-c58e-41a3-940a-d2f4f4219f22.jpg"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\uploads\\4e0946f4-2c84-4b95-b904-38e0c61aeaa4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4e0946f4-2c84-4b95-b904-38e0c61aeaa4.jpg"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\uploads\\6f444925-d6ae-4163-b892-0ddeb53ea275.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6f444925-d6ae-4163-b892-0ddeb53ea275.jpg"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\uploads\\86b43735-1ed8-40ad-8392-0844c7b164db.png",
+      "PackagePath": "staticwebassets\\uploads\\86b43735-1ed8-40ad-8392-0844c7b164db.png"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\uploads\\96c97f9a-db63-4960-927b-24c6d7f6cd12.jpg",
+      "PackagePath": "staticwebassets\\uploads\\96c97f9a-db63-4960-927b-24c6d7f6cd12.jpg"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\uploads\\991ea7e8-bc94-4397-960a-100314b9794b.png",
+      "PackagePath": "staticwebassets\\uploads\\991ea7e8-bc94-4397-960a-100314b9794b.png"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\uploads\\a5e34e5e-e04d-4851-b5fc-af8966585e5e.png",
+      "PackagePath": "staticwebassets\\uploads\\a5e34e5e-e04d-4851-b5fc-af8966585e5e.png"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\uploads\\c71fb2b0-913b-4947-b289-24adae24ee3b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c71fb2b0-913b-4947-b289-24adae24ee3b.jpg"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\uploads\\d4506908-0b43-427c-b0df-a5758a9d639c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d4506908-0b43-427c-b0df-a5758a9d639c.jpg"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\uploads\\ecb80630-92e0-4fd3-9354-15b67decfeeb.png",
+      "PackagePath": "staticwebassets\\uploads\\ecb80630-92e0-4fd3-9354-15b67decfeeb.png"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\uploads\\ed158ee4-3774-4e20-abc8-17c826d76dc9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ed158ee4-3774-4e20-abc8-17c826d76dc9.jpg"
+    },
+    {
+      "Id": "E:\\InformationSystem\\Ky9\\PRN221\\BookStore\\BookeStore\\wwwroot\\uploads\\f60e4e90-6573-4232-95d8-cf0192dd5d2a.png",
+      "PackagePath": "staticwebassets\\uploads\\f60e4e90-6573-4232-95d8-cf0192dd5d2a.png"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.BookStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.BookStore.props",
+      "PackagePath": "build\\BookStore.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BookStore.props",
+      "PackagePath": "buildMultiTargeting\\BookStore.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.BookStore.props",
+      "PackagePath": "buildTransitive\\BookStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
